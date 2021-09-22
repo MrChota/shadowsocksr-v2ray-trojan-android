@@ -69,3 +69,4 @@ jobs:
         ls -thls ~/.android-cache
         ls -thla ./target/android/output/
         echo test, and deploy your project.
+        
